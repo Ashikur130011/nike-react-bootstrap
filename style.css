@@ -1,0 +1,47 @@
+.banner-text{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 70px;
+    font-size: 70px;
+
+}
+.text-color{
+    color: #FA804C;
+}
+.card-img{
+    height: 311px;
+    width: 311px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.nike-card-title{
+    font-weight: bold;
+}
+.nike-card{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.text-price{
+    color:#FA804C;
+}
+.size{
+    height: 19px;
+    padding-right: 5px;
+}
+/* extra-facilities */
+.img-size{
+    width: 78px;
+    height: 82px;
+}
+.extra-items{
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
